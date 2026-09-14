@@ -13,5 +13,3 @@ Open `index.html` in a browser.
 
 The visual is inspired by the uploaded reference layout, but the content is based on Aditya Kumar's resume. No unsupported work experience or fake projects are presented.
 
-## Free deployment
-Upload this folder to GitHub Pages, Netlify, or Vercel.
